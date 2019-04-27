@@ -1,4 +1,4 @@
-Módulo onde serão destacados comandos de SQL:
+Módulo onde serão destacados comandos SQL:
 
 -Criação de Tabelas:
 
